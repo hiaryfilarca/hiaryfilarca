@@ -16,7 +16,7 @@
   * **This project is to record the information of individual using basic crud with html and php programming language**
   * **(not yet done)**
 * **HOTEL MANAGEMENT SYSTEM**
-  * **An site that Allows guests to book rooms either online or in-person.**
+  * **An site that allows guests to book rooms either online or in-person.**
   * **(not yet done)**
   ### 📞Contact
 * **[hiaryfilarca@gmail](hiaryfilarca@gmail.com)**
